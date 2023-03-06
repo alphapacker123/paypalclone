@@ -1,0 +1,443 @@
+.header{
+    height: 66px;
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    margin-top: -8px;
+    padding-left: 20px;
+    margin-left: -9px;
+    
+    
+    
+}
+
+.logo{
+
+    height:32px;
+    margin-left:62px ;
+    margin-top: 13px;
+    padding-right: 20px;
+}
+
+.menulist{
+    list-style: none;
+    display: flex;
+    margin-right: 174px;
+    margin-left: 323px;
+    margin-top: -26px;
+    justify-content: space-between;
+    padding: 0px;
+}
+
+.login{
+    margin-left: 20px;
+    margin-right: -25px;
+    margin-top: -18px;
+    border-radius: 18px;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #0070ba;
+    color: #0070ba;
+    background-color: transparent;
+
+}
+
+.signup{
+    margin-right: -65px;
+    margin-left: 26px;
+    margin-top: -18px;
+    border-radius: 20px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #0070ba;
+    color: white;
+    background-color:#0070ba;
+}
+
+.herobanner{
+    margin-left: -8px;
+    position: relative;
+}
+
+.heroimg{
+width: 101%;
+height: 465px;
+margin-left: 0px;
+
+}
+.herocontent{
+  height: 20px;  
+position: absolute;
+top: 78px;
+left: 79px;
+right: 40px;
+margin-right: 20px;
+color: white;
+}
+
+.heroh1{
+    font-size: 36px;
+    position: absolute;
+    top: -10px;
+}
+.heroh3{
+
+    font-size: 20px;
+    width: 603px;
+    position: absolute;
+    top: 103px;
+}
+
+.herobtn{
+    position: absolute;
+    top: 223px;
+border-radius: 37px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 112px;
+padding-right: 112px;
+background-color: #0070ba;
+color: white;
+border-width: 0px;
+font-size: 15px;
+margin-bottom: 15px;
+
+
+}
+.herolastcontent{
+position: absolute;
+top: 296px;
+
+}
+.heroh2{
+
+   font-size: 17px; 
+   margin-top: 10px;
+}
+
+
+
+
+/* tickle bar  */
+
+
+.ticklebar{
+    height: 90px;
+    background-color: #eaeced;
+    margin-top: -4px;
+    margin-right: -11px;
+    margin-left: -6px;
+    z-index: 3;
+position: relative;
+}
+
+.ticklebarcontent{
+    color: black;
+    position: absolute;
+    top: 39px;
+    right: 428px;
+    font-size: 24px;
+    z-index: 4;
+    
+}
+
+.ticklebarcontentcolor{
+    color: #0070ba;
+}
+
+
+
+/* how it works */
+
+.paypalmoney{
+
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    height: 450px;
+}
+
+.paypalmoneyhead{
+
+    position: absolute;
+    top: 67px;
+    right: 248px;
+    font-size: 43px;
+    color: #4a4a4a;
+}
+
+.paypalsecurity{
+
+    position: absolute;
+    top: 162px;
+    left: 187px;
+}
+
+.paypalglobe{
+
+    position: absolute;
+    top: 162px;
+    left: 560px;
+}
+
+.paypalsecure{
+
+    position: absolute;
+    right: 236px;
+    top: 162px;
+    
+}
+
+.paypalsecuritycontent{
+
+    position: absolute;
+    top: 115px;
+    right: -163px;
+    width: 340px;
+    font-size: 18px;
+
+}
+
+.paypalmoneyh1{
+font-size: 23px;
+margin-bottom: -19px;
+margin-top: 6px;
+color: #4a4a4a;
+
+
+}
+
+.paypalglobecontent{
+
+    position: absolute;
+    top: 115px;
+    right: -163px;
+    width: 340px;
+    font-size: 18px;
+
+
+}
+
+.paypalglobeh1{
+    font-size: 23px;
+margin-bottom: 4px;
+margin-top: 6px;
+color: #4a4a4a;
+
+}
+
+.paypaltechcontent{
+    position: absolute;
+    top: 115px;
+    right: -163px;
+    width: 340px;
+    font-size: 18px;
+
+}
+
+.paypaltechcontenth1{
+    font-size: 23px;
+    margin-bottom: 4px;
+    margin-top: 6px;
+    color: #4a4a4a;
+
+}
+
+
+
+/* paypal video section */
+
+
+.videocontent{
+    display: flex;
+    position: relative;
+    background-color: #f5f7fa;
+    height: 322px;
+    
+}
+
+
+.videoleftbold{
+
+    font-size: 43px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+    position: absolute;
+    top: -52px;
+    color: #4a4a4a;
+}
+
+.videoleft{
+
+    position: absolute;
+    top: 111px;
+    left: 84px;
+    width: 521px;
+    font-size: 20px;
+    
+}
+
+
+.videoright{
+position: absolute;
+right: 20px;
+top: 55px;
+
+}
+
+.videoimage{
+
+    width: 398px;
+    height: 244px;
+}
+
+
+
+/* signuplast*/
+
+
+.signuplast{
+position: relative;
+    height: 300px;
+}
+
+.signuplastcontent{
+
+position: absolute;
+left: 346px;
+top: 60px;
+font-size: 42px;
+color: #4a4a4a;
+}
+
+.signuplastbtn{
+
+    position: absolute;
+    top: 139px;
+    left: 454px;
+border-radius: 37px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 112px;
+padding-right: 112px;
+background-color: #0070ba;
+color: white;
+border-width: 0px;
+font-size: 15px;
+margin-bottom: 15px;
+
+
+}
+
+.signuplasttext{
+
+    position: absolute;
+    top: 220px;
+    left: 458px;
+    width: 346px;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.signuplastcolortext{
+
+    color: #0070ba;
+}
+
+
+
+/* contact us */
+
+.contactus{
+height: 450px;
+position: relative;
+background-color: #eaeced;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+
+.contactleftup{
+position: absolute;
+top: 41px;
+left: 88px;
+font-size: 14px;
+    
+}
+
+.contactleftup2{
+
+    position: absolute;
+    bottom: 175px;
+    left: 88px;
+    height: 30px;
+    
+}
+.contactinfo{
+position: absolute;
+width: 40px;
+height: 40px;
+font-size: 18px;
+
+}
+.c1{
+    margin-right: 11px;
+}
+
+
+
+
+/* rightup */
+
+.contactrightup{
+    position: absolute;
+    top: 102px;
+    right: 95px;
+    font-size: 13px;
+}
+
+.fa-brands{
+
+    margin-right: 2px;
+    margin-left: 10px;
+    font-size: 38px;
+    color:#4a4a4a
+}
+
+hr{
+
+size: 40px;
+width: 1000px;
+
+}
+
+
+.footer{
+    position: absolute;
+    left: 83px;
+    bottom: 30px;
+    font-size: 14px;
+    width: 980px;
+}
+
+.footerp1{
+position: absolute;
+top: -56px;
+left: -1px;
+}
+
+.footerpre{
+
+    position: absolute;
+    top: -118px;
+    left: -115px;
+    font-size: 16px;
+    color: black;
+    
+}
